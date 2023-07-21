@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base",
+  "strict": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
+}
